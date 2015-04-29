@@ -7,7 +7,7 @@ MONDAY 8 JUNE 2015 15.30 – 16.30	Parallel Paper Sessions C
 # Talk outline:
 
 1. Introduction to the Journal
-    1. history of the RIA
+    1. History of the RIA
     2. Irish Context
     3. Statistics about the corpus
 2. Getting from the texts to .txts

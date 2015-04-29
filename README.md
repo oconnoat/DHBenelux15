@@ -22,6 +22,3 @@ MONDAY 8 JUNE 2015 15.30 – 16.30	Parallel Paper Sessions C
 4. Results: the Topics and what we learned about the RIA
 5. Results: a Process for cleaning text someone else has OCR'd
 6. Conclusions
-
-adding text
-

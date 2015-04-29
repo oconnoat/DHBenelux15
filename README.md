@@ -23,3 +23,5 @@ MONDAY 8 JUNE 2015 15.30 – 16.30	Parallel Paper Sessions C
 5. Results: a Process for cleaning text someone else has OCR'd
 6. Conclusions
 
+adding text
+

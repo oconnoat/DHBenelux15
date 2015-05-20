@@ -1,0 +1,2158 @@
+
+ 
+613 ) 
+
+XVII. 
+
+THE THEORY OF PERMANENT SCREWS ; BEING THE NINTH MEMOIR ON THE 
+THEORY OF SCREWS. By SIR ROBERT STAWELL BALL, LL.D., F.R.S., Royal 
+Astronomer of Ireland. 
+
+[Read FEBRUARY 10, 1890. 
+
+TABLE OF CONTENTS. 
+PACE 
+
+INTRODTICTION, . 613 
+I. A Property of the Kinetic Energy of a System, . . 615 
+
+II. The General Equations of Motion with Screw-chain Co-ordinates, . 620 
+III. The Restraining Wrench-chain, . 622 
+IV. The Accelerating Screw-chain, 624 
+V. Permanent Screws, it 626 
+
+V.I. A Single Free Rigid Body, . . 629 
+VII. Two Degrees of Freedom, 637 
+
+VIII. Three Degrees of Freedom, . . 646 
+Ix. Remaining Degrees of Freedom, . . 650 
+
+ADDENDUM, . . 651 
+
+INTRoDUCTIoN. 
+
+IT Will be a convenient way of commencing this Memoir to recite a well 
+known dynamical proposition, and then to enlarge its enunciation by 
+certain abandonment of restrictions. 
+
+Suppose a rigid body free to rotate around a fixed point. There are in 
+general three axes about any one of which the body will continue to rotate 
+when once set in rotation so long as the application of force is withheld. 
+These are known as the permanent axes. The freedom of the body in this 
+case is of a particular nature, included in the more general type known as 
+Freedom of the Third Order. This order is itself merely one subdivision 
+of the class which, including the six orders of freedom, embraces every 
+
+nL. IR. ACAD., TRINE., VOL. XXXIIX.---PART XVII. 4 ?S 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+614 SIR R. S . BALL On the Theory of Permanent Screws. 
+
+conceivable form of constraint that can be applied to a rigid system. We 
+propose to investigate the theory of permanent screws for a body con 
+strained in the most general manner. 
+
+The movement of the body must be a twist velocity about some one 
+screw 0 belonging to a system of screws prescribed by the character of the 
+constraints. In the absence of forces external to those arising from the 
+reactions of the constraints, the movement will not, in general, persist as a 
+twist about 8. The instantaneous screw will usually shift its position so as 
+to occupy consecutive positions in the system. It will, however, be always 
+possible to compel the body to remain twisting about 0. For this purpose 
+a wrench of suitable intensity on an appropriate screw q may have to be 
+applied. Without sacrifice of generality we can arrange that j is one of the 
+system of screws which expresses the freedom of the body. It may some 
+times appear that the intensity of the necessary wrench on rj vanishes. 
+The body in such a case requires no external coercion to preserve 0 as the 
+screw about which it twists, and we speak of 0 as a permanent screw. 
+
+In the earlier parts of the Paper we may discard the restrictions 
+involved in the assumption that the material system is only a single rigid 
+body. The Theory of Screw-chains extends a portion of the inquiry to 
+any material system whatever. Any number of parts connected in any 
+manner must still conform to the general law, that the instantaneous move 
+ment can always be represented by a twist about a screw-chain. Generally 
+speaking, the position of the instantaneous screw-chain cannot be main 
+tained without the imposition of special coercion. This is applied by a 
+restraining wrench-chain, the relation of which to the instantaneous screw 
+chain opens up an instructive branch of research. Sometimes we discover 
+that a restraining wrench-chain is provided by the reaction of the con 
+straints. The instantaneous screw-chain is then permanent, and we are 
+thus led to the extension of the theory, to any mechanical system whatever. 
+
+Another preliminary matter should be also noticed, because it exhibits 
+the relation of the subject discussed in this Memoir to some other parts of 
+the Theory of Screws. In the ordinary theory of the principal axes of a 
+rigid body there are, as is well known, two distinct properties of such an 
+axis which possess dynamical significance. We may think of a principal axis 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL---Ors the Theory of f 
+ Permanent Screws. 615 
+
+as the axis of a couple which, when applied impulsively to the body, will set 
+it spinning about this line. We may also think of the principal axis as a 
+direction about which, if a body be once set in rotation, it will continue to 
+rotate. When the first of these properties is suitably generalized it opens 
+up the theory of principal screw-chains of inertia, which I have already 
+explained in previous Memoirs. It is from the other property of the 
+principal axis that the present theory takes its rise. The two general 
+theories are wholly distinct in their mathematical treatment, and in the 
+character of the conceptions to which they give rise. It is therefore to be 
+observed that two different departments in the Theory of Screws happen to 
+coalesce in the very special case of a rigid body rotating around a point. 
+
+I. A PROPERTY OF THE KINETIC ENERGY OF A SYSTEM. 
+
+It is obvious that a mere alteration of the azimuth about a fixed axis from 
+which a rigid body is set into rotation will not affect its kinetic energy, 
+provided the position of the axis and the angular velocity both remain 
+unaltered. Enunciated in quite a general form the same principle is as 
+follows 
+
+Any mechanical system in movement is necessarily twisting about a 
+screw-chain. If we arrest the movement of the system, displace it to an 
+adjacent position on the same screw-chain, and then start the system to 
+twist still on the same screw-chain, with its original twist velocity, the 
+kinetic energy of the system is the same as it was originally. 
+
+This principle requires that whatever be the symbols employed, T must 
+satisfy a certain identical equation. I propose to investigate this equation, 
+and its character will be best understood by discussing the question at first 
+with co-ordinates of a perfectly general type for a system with n degrees of 
+freedom. 
+
+Let the co-ordinates be z1, ... xn as representing the position of the 
+system, and of course its instantaneous velocity is indicated by Y, ...gin. 
+Let 0 be the initial position of the system, then in the time t it has 
+reached the position 0', whereof the co-ordinates are 
+
+ 
+
+ 
+
+vV t, . .  x,  CU t. 
+4S2 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+616 SIR R. S. BALL-On the Theory of Permanent &rews. 
+
+The movement from 0 to 0' must, like every possible movement of a 
+system, consist of a twist about a screw-chain. This is a kinematical fact, 
+wholly apart from the particular system of co-ordinates which may have 
+been adopted. We call this screw-chain 0, and 0 denotes the twist velocity 
+with which the system moves around it. 
+
+Choose now any n independent screw-chains, about each one of which 
+the system is capable of twisting. Then 6 can be decomposed into twist 
+velocity components 0,, ... 0,, about the several screw-chains of reference. 
+
+Since everything pertaining to the position or the movement of the system 
+must necessarily admit of being expressed in terms of the co-ordinates of 
+the system, and since the quantities 81, &c., 0., are definitely determined 
+by the position and movements of the system, it follows that there must be 
+a group of formulae 
+
+01 =f(x, . . . .?;, . . . 
+ 
+
+Sn fn(XII . . .27:, x1, . .. x.). 
+Let the system now receive the small displacement 
+
+82' &e, ... axe,  &"86 
+where 8c is a small quantity, and let it be set in motion so that it has the 
+same twist velocity as before, about the same screw-chain as before. The 
+test of this is that each of the quantities O,, O,, is to remain unaltered. 
+This can only be arranged by a suitable accommodation of &x?, ... &x, in 
+accordance with the equations 
+
+df1 dJ df, . df f fix, ...  --? 8z  . ?xj  ... -? : &, fl  o, d;1 dxn d1xn 
+
+Vxl ` axn  axl  &t=0. dx, d'xn F d&n 
+
+We have also the equation arising from the circumstance that T has not 
+altered, so that 
+
+dT dT dT dT 
+._,. &x1  . . . ' fy  --  8z1  . . . &.  0. dxl c, dx, c x 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. Bar.-On the Theory of Permanent Screws. 617 
+
+Let us assume, for brevity, the symbol A, such that 
+
+d d 
+dx  `"xndx . 1 n 
+
+Then we obtain, by elimination of 8i,, Si,, and 8E, 
+dT dT 
+dz1, 
+
+, .. 
+din 
+
+dfi 
+A/el, . dxl , 
+
+df, 
+... 
+
+din 
+
+AJe, ... &I, din 
+Such is a general condition to be satisfied by T ; and it is of some 
+
+interest to notice that the expression for the kinetic energy of any system 
+is constrained to obey the law that is implied. It is doubtless true that 
+the equation is a complicated one in ordinary systems of co-ordinates. 
+It is, however, a distinctive feature of the Theory of Screw-chains to 
+exhibit this equation in a form of much simplicity. 
+
+For, suppose that 
+
+On  X ., 
+
+then the equation above written reduces to 
+
+AT 0. 
+
+We thus have the following theorem : 
+
+If the co-ordinates of a system f',, ... 8',i be the n twists about n screw 
+chains, belonging to the system of screw-chains which express the liberty 
+of the system, and if fix, ... O,, be the twist velocities of the system about 
+these screw-chains, then the kinetic energy T satisfies the equation 
+
+.dT  dT 
+011. ..+en 
+
+=0. 
+df' dB'. 
+
+Ij 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+618 SIR R. S. BALL---On the Theory of Permanent Screws. 
+
+I have thought it more instructive to exhibit the origin of this equa 
+tion as a special case of the general type of co-ordinates. For a brief 
+demonstration the following simple argument suffices : 
+
+If the system be displaced through 8O',, ... S8'n while the velocities are 
+unaltered, the change of kinetic energy is 
+
+dT dT 
+d8 d8n 
+
+If the change of the position be that of a small twist around 8, ... Ott, 
+then 
+
+&&  
+
+0"Se  80"" 
+
+but from the physical property of the kinetic energy already cited, it appears 
+that this arrangement cannot change the kinetic energy, whence 
+
+ dT dT 
+d8z dfn 
+
+The converse of this theorem will now be proved ; but before doing 
+so it will be necessary to call attention to a point in the philosophy of 
+co-ordinate systems of any type whatever. Let us take the general case 
+where the co-ordinates are x1, ... x., and xj, ... x. Suppose that x2, ... &n 
+are all zero, then is the velocity of the system. We shall also take a2, ... xn 
+to be zero, so that we only consider the position of the system defined by x?. 
+Think now of the two positions for which x,  0 and x,  x'i, respectively. 
+Whatever be the character of the constraints it must be possible for the 
+system to pass from the position z  0 to the position x,  z'1 by a twist 
+about a screw-chain. The magnitude x'l is thus correlated to the position 
+of the system on a screw-chain about which it twists. 
+
+Let us suppose that the co-ordinates are of such a kind that the identical 
+equation which T must necessarily satisfy has the form 
+
+.dT , dT X 1 d.. , 
+ 
+
+, dx,  0. am n 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL-On the Theory of Permanent Screws. 619 
+
+Then, for the particular displacement corresponding to the first co-ordinate, 
+Z2, ... x,, are all zero, and 
+
+dT 
+-0; d2;'1 
+
+and as T must involve xl in the second power, we have 
+
+T  Hxl2, 
+where H is independent o x'l. 
+
+Let 0, be the twist velocity about the screw-chain corresponding to the 
+first co-ordinate, then, of course, A being a constant, 
+
+T A&2, 
+whence 
+
+At12=H'?12I 
+
+'Y ':& 1  '/.LZ x?, l 
+whence by integration and adjustment of units and origins 
+
+01=x1. 
+
+We thus see that while the displacement corresponding to the first co-ordi 
+nate must always be a twist about a screw-chain, whatever be the actual 
+nature of the metric element chosen for the co-ordinate, yet that when the 
+identical equation admits of the form 
+
+. dT .dT 
+o, ...  on  o, dB's dB' 
+
+the metric element chosen can be nothing else than the amplitude of the twist 
+about the screw-chain. 
+
+We have thus proved the following general theorem : 
+If the identical equation, satisfied by T, admits of expression in the form 
+
+dT .dT 
+doll d?'fs 
+
+then the co-ordinates must be twists about n screw-chains of reference. 
+It is worth noticing that the identical equation in this form is indepen 
+
+dent of linear transformation. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+620 SIR R. S. BALL-On the Theory of Permanent Screws. 
+
+Suppose, for instance, we write 
+
+0'l  (1 1 cf'i . . .  (in 4',, 
+oc  (n1 Vi  . .  (un xl/. 
+
+Then, by differentiation 
+
+1i1=(11)1. . 
+
+Thus, the two sets of variables are cogredients, and by the theory of 
+linear transformations 
+
+ dT  dT . dT dT 
+01 , ... ----  On  c:1 ...  ?  , . dB , df'n r do I do n 
+
+The expression admitting of this property is known in algebra as an 
+emanant. 
+
+We could, however, have foreseen the permanence of the form of the 
+identical equation from the fact, that if any set of n independent screw 
+chains belonging to the system be chosen, the equation must assume this 
+form. 
+
+The existence of such a simple mode of expression for this property of 
+T, suggests the natural character of screw-chain co-ordinates. 
+
+II.----THE GENERAL EQUATIONS OF MOTION WITH SCREW-CHAIN CO-ORDINATES. 
+
+Let the components of the wrench-chain, when resolved on the screw 
+chains of reference, have for intensities -q",, r?". Let p1, ... p,, be the 
+pitches of the chains of reference, by which is meant that 2p, is the work 
+done on that screw-chain by a twist of unit amplitude against a wrench of 
+unit intensity on the same screw-chain. Then, choosing a set of co-reci 
+procal screw-chains of reference, we have, from Lagrange's equations, 
+
+d dT dT 
+dt de, df'1 
+
+ 
+
+d dT dT 
+dt d 
+
+'  d8' p'?'j. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL--On the Theory of Permanent Screws. 621 
+
+These equations admit of a transformation by the aid of the vanishing 
+emanant 
+
+dT  dT 
+d ff1 +On;=O. (I. 
+
+Differentiating this equation by e,, we find 
+dT d2T d2T 
+
+dB'1 din dB'n 
+but 
+
+d dT d. d2T b, i d2T d2T  d2T 
+-)=ol-+o2 
+
+. . . d t del d8 d0i dOn d0l dB'n +OnWW, 
+
+whence, substituting from (ii.), 
+d dT .. d2T a. d2T dT 
+dt d?l dd dV1dBn dB Z 
+
+Thus, Lagrange's equations may be written 
+.. d2T 
+
+""' 
+
+""V 1 
+.. 
+
+dB 
+d2T .. d2T 1 dT 
+
+01  02 
+dB, ddn 
+
+} Bn 2p1 7 3 f 
+dBl , dB 
+
+..d2T u d2T 1 dT B2  Bn 2 2pn 71 n +----a . dd 1 dBn ddn l n d [f n 
+These equations can be simplified still further by a judicious choice of 
+
+the screw-chains of reference without interfering with the generality of the 
+investigation. We have already assumed the screw-chains of reference to 
+be co-reciprocal. If, however, we select that particular group which forms 
+the principal screw-chains of inertia, then every pair are conjugate screw 
+chains of inertia besides being reciprocal. 
+
+In this case T takes the form 
+ 2 
+
+ 
+
+dT dT 
+T-=M(u1 01 .. , --u e2)+8'i +...  Brta;;; 
+
+neglecting the small quantities B', ... &c., we have 
+
+d'2T dT 2 
+ 2Mu1 ... jj 
+
+ 2Mu 
+
+d2T 
+.=o,&c. dB1 dB2 
+
+ILL. IB. ACiD., TRANS., VOL. 11I1. PART XYII. 4 T 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+622 SiR R. S. BALL On the Theory qf Permanent Screws. 
+
+Introducing these values we have 
+m 1 dT 
+
+Mui 8i - p1 
++T) 
+
+2v ?, 1 dT JYlun O _n - Pn 77 n  Pn 1i 
+These may be regarded as a generalization for any mechanical system 
+whatever of the well-known Eulerian equations for the rotation of a rigid 
+body around a fixed point. 
+
+If there be no external forces then the equations of movement assume 
+the extremely simple form (since q",, &c. , rq",, are all zero), 
+
+s dT 
+Mul281 a de , 
+
+?. ?T 
+.Mum en f. ?e n 
+
+III.-THE RESTRAINING WRENCH-CHAIN. 
+
+If a system be twisting about a screw-chain 0, where no external forces 
+are in action, the system will, in general, forsake 0 and gradually adopt 
+one screw-chain after another. It is, however, possible, by the application 
+of a  suitable wrench-chain to compel the system to keep to 0. We call 
+this the restraining wrench-chain, and we proceed to study its character. 
+
+The co-ordinates of the wrench-chain required are obtained by imposing 
+the conditions 
+
+O02  o, .  . V n  o. 
+We therefore infer from the general equations just given, that if rq",, &c., n",, 
+are the co-ordinates of the restraining wrench-chain 
+
+1 dT 
+n' 
+
+ 
+
+a 
+
+14T 
+p, fs 
+
+whence we deduce the following theorem 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL On the Theory of Permanent Screws. 623 
+
+If the position of a system be referred to co-reciprocal screw-chains of 
+reference, then 
+
+1 dT 1 dT 
+Pi d1'1' 
+
+.. . 
+
+Pnde's 
+are the co-ordinates of the restraining wrench-chain which would coerce 
+the system into continuing to twist about the same screw-chain O. 
+
+We obtain a confirmation of this theorem by the following method of 
+viewing the subject. It must be possible to coerce the system to twist 
+about 0 by the imposition of special constraints. The reactions of these 
+constraints will constitute, in fact, the restraining wrench-chain. It is, 
+however, a characteristic feature that, as the system is, ex hypothesi, still 
+at liberty to twist about 0, the reaction of any constraints which are con 
+sistent with this freedom must lie on a screw-chain reciprocal to 0. 
+
+The condition that two screw-chains, 0 and rq, shall be reciprocal is 
+
+ PitiTh, ...  pnOnfln  0; 
+
+but this is clearly satisfied if for rqj, &c., we substitute 
+1 dT 1 dT 
+
+pi dO, 
+... 
+
+pn dO,n 
+for the equation then becomes 
+
+dT dT 
+ei ,  l.+enf =o, d81 den 
+
+which, when multiplied by I, reduces to the known identity 
+.dT . dT 
+
+df'Y do'n 
+
+This gives a physical meaning to the en .avant identity, which, as we have 
+seen, is characteristic of screw-chain co-ordinates. From this point of view 
+it becomes merely an expression of the fact that the restraining wrench 
+chain must be reciprocal to the instantaneous screw-chain. 
+
+The kinetic energy will remain unaltered by a derangement of the 
+
+ A particular case of this, or what is equivalent thereto, is given in Williamson and Tarle 
+ton's Dynamics, 2nd ed., p. 432. 
+
+4T2 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+624 SIR R. S. BALD-On the Theory of Permanent Screws. 
+
+system which consists of a twist on any screw-chain reciprocal to the 
+restraining screwwchain, the twist velocities remaining unaltered. 
+
+For, if O'x, ... O' be the co-ordinates of the displacement, the change in 
+T is 
+
+dT, dT 
+d8, 
+
+which may be written 
+1 dT, 1 dT 
+
+pi df`, Pn df`n 
+
+but this will be zero if, and only if, the screw-chain O'I, ... B' be reciprocal 
+to the screw-chain 
+
+1 dT 1 dT 
+PidO'1'...p,,de,n. 
+
+IV.--THE ACCELERATING SCREW-CHAIN. 
+
+When the system has forsaken the instantaneous screw-chain 0, and 
+advanced to another screw-chain 0, there must be a twist velocity about some 
+screw-chain p, which, when compounded with the twist velocity about 0, 
+gives the twist velocity about 4. When 4 and 0 are indefinitely close, then 
+p is the accelerating screw-chain. 
+
+To study the subject we take the n principal screw-chains of inertia as 
+the screws of reference. If external forces are absent, we have 
+
+. 
+
+ 
+
+dT 
+d8' 
+
+&c., 
+?.. dT Mu, 0n - . dffn 
+
+It is plain that the co-ordinates of the accelerating screw-chain are B, ... 
+whence we have the following theorem 
+
+If a mechanical system be twisting around a screw-chain 0, and if 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+Six R. S. BALL On the Theory of Permanent Screws. 625 
+
+external forces are absent, the corordinates of the corresponding accelerating 
+screw-chain are proportional to 
+
+1 dT l dT 
+UI2 
+
+ 
+
+d011s 
+ . 
+
+ 
+
+Un2 dO' 
+
+We can prove this otherwise, as follows :---- 
+From the theory of screw-chains it is known that if a quiescent system 
+
+receive an impulsive wrench-chain with co-ordinates 
+
+U2 u?b 
+. I pt; Pn, 
+
+the system commences to twist about the screw-chain, of which the co-ordi 
+nates are 
+
+If, by the imposition of a restraining wrench, the system continues to 
+remain twisting about 0, the restraining wrench has neutralized the 
+acceleration ; it follows that the restraining wrench-chain, regarded as 
+impulsive, must have generated an instantaneous grist velocity on the 
+accelerating screw-chain, equal and opposite to the acceleration that would 
+otherwise have taken place. The co-ordinates of this impulsive wrench are 
+proportional to 
+
+1 dT 1 dT 
+pi d0lj' 
+
+'   
+
+pn d8',?' 
+
+The corresponding instantaneous screw-chain is obtained by multiplying 
+these expressions severally by 
+
+P1 Pu 21 ' q21 U Un 
+
+and thus we find, as before, for the co-ordinates of the accelerating screw 
+chain 
+
+1 dT 1 dT 
+U 2 (1B,I ..  u,2 de'n. 
+
+We can now express the relation between the accelerating screw-chain 
+and the instantaneous screw-chain. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+626 SIR R. S. BALL-On the Theory of Permanent Screws. 
+
+We have, from the expressions already given, 
+
+. .. ... . dT . dT 
+M(2G12 UiO  . . .  u2  V1   . . on --f-. dB, od8 
+
+But the right-hand side is the emanant which we know to be zero, whence 
+
+U2 8181  &c.,  UJy2 09L en  0. 
+
+This shows that 8i, ... 8n, and 81, ... 0. are on conjugate screw-chains 
+of inertia, and hence we infer that when a mechanical system is moving 
+without external forces, the instantaneous screw-chain and the accelerating 
+screw-chain are conjugate screw-chains of inertia. 
+
+The construction of the accelerating screw-chain is thus obtained :-- 
+When a single rigid body is in movement a cylindroid can be drawn 
+
+through two consecutive instantaneous screws, and this cylindroid osculates 
+the motion. We can thus conceive a chain of cylindroids osculating the 
+movement of any system whatever. If an instantaneous screw chain 0 be 
+chosen on these cylindroids, then it is always possible to inscribe on the 
+same cylindroids one, but only one screw-chain, which is conjugate to 0 
+with respect to inertia. This is the accelerating screw-chain. 
+
+V. PERMANENT SCREWS. 
+
+Reverting to the general system of equations, we investigate the condi 
+tion that 0 shall be a permanent screw. It is obvious that if O, 82, &c., 8 
+are all zero, then 
+
+dT dT 
+d8'1' 
+
+ ' 
+
+dB' 
+
+must each be zero. Conversely, we are able to show that if the differential 
+coefficients just written are all zero, then the quantities BJ, ... B, must 
+each vanish. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SiR R. S. BALL On the Theory of Permanent Screws. 627 
+
+For this is obviously true unless the determinant 
+d2T d2T d2T 
+dgl2' d81 d82' 
+
+. ' del ddn' 
+d2T 
+
+GGV & d O27 
+
+d'T d2T 
+dd,ddn' 
+
+, Jjl 2 
+should be zero. Remembering that T is a homogeneous function in the 
+second degree of the quantities 0,, ... 0,,, the evanescence of the deter 
+minant just written would indicate that T admitted of expression by means 
+of n  1 square terms, such as 
+
+ L12  42 . , .  Ln2_1. 
+This vanishes if 
+
+L,  o ; 4  0, c. ; Ln_1 0; 
+each of these is a linear equation in 0,, ... 0,,, and consequently a real 
+system of values for 01, 8,z must satisfy these equations, and render T zero. 
+It would thus appear that a real motion of the system would correspond to 
+a state of zero kinetic energy. This is, of course, impossible ; it therefore 
+follows that the determinant must not vanish, and consequently we have 
+the following theorem : 
+
+If the screw-chains of reference be co-reciprocal, then the necessary and 
+the sufficient conditions for 0 to be a permanent screw are indicated by the 
+equations 
+
+dT dT 
+d8, d8n 
+
+There are n of these equations, but they are not independent. The emanant 
+identity shows that if n  1 of them be satisfied, the co-ordinates so found 
+must, generally speaking, satisfy the last equation also. 
+
+As the quantities O'l, ... e' are small, we may generally expand T in 
+powers, as follows 
+
+T  Tp  81T1  . . . V'nT, 
+ efl2T11  . . .  2O'1g2T12  . .. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+628 SIR R. S . BALL-On the Theory of Permanent Screws. 
+
+The equation 
+dT 
+
+therefore becomes 
+T,+20',T11+2O'2T12 1 ...-=0, 
+
+and as O',, O', &c., are indefinitely small, this reduces to 
+
+T1  0, 
+
+where T1 is a homogeneous function of B,, 02, ... 8,z in the second degree. 
+For the study of the permanent screws we have, therefore, n equations 
+
+of the second degree in the co-ordinates of the instantaneous screw-chain, 
+and any screw-chain will be permanent if its co-ordinates render the several 
+differential coefficients zero. We may write the necessary co-ordinates that 
+have to be fulfilled, as follows :- 
+
+Let us denote, by Roman capitals, the several differential coefficients 
+of T with respect to the variables. Then the emanant identity is 
+
+011  d211  03 111     =o, 
+
+and we may develop any single expression, such as III, in the following 
+form : 
+
+III - III,1 &2  "22021  11133 032  211112&02  ... 211I,4 0104. 
+
+As the emanant is to vanish identically, we must have the coefficients of 
+the several terms, such as 813, 01282, 010283, &c., all zero, the result being 
+three types of equation 
+
+I,,  0, 122  II12  0, I2  II, 3+II112 0, 
+
+1122 0, 1111 112-0, &c,, 
+
+III3=0, I133+III2=0, &C., 
+
+1v44=0, &c. 
+
+of the first of these classes of equations, I,,  0, there are n, of the second 
+n Cn --1 
+
+ Cn ?- 2 n Cn ?-? 1)(n  2  there are n (n - 1), and of the third, , ?n all ID 1.2.3 ' 1.2.3 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL On the Theory of Permanent Screws. 629 
+
+VI. -A SINGLE FREE RIGID BODY. 
+
+In the case of a single free rigid body there is another identical equa 
+tion besides that implied in the vanishing of the emanant. The origin of 
+this equation is thus explained :- 
+
+Let T be the kinetic energy of a free rigid body twisting for the moment 
+around a screw 0. It is obvious that T will be a function of the six co-or 
+dinates, B',, ... O', which express the position of the body, and also of 
+O1, ... Bs, the co-ordinates of the twist velocity, 
+
+T?fe'1,... e'6, e1,...es). 
+It is plain, from symmetry, that the kinetic energy will be unaltered if the 
+motion of the body be arrested, and if, after having received a displacement 
+by a twist of any pitch on the same axes as the instantaneous screw, it be 
+again set in motion with the primitive twist velocity. Let E be the ampli 
+tudd of the twist, then the obvious property which we have just stated 
+involves the following analytical property :---- 
+
+That T must remain unchanged if we substitute as follows, for &', 
+
+px dB 
+'? 81 -? ---' . E, 4p dO 
+
+and similarly for 0'2, &C., 0'6. 
+
+In these expressions px denotes an arbitrary pitch, while R is the function 
+
+012 -? 022 ...  062+2(12)d102+2(23)d2 03, &c., 
+where (12 is the cosine of the angle between the first and second screws of 
+reference, and similarly for (23), &c. 
+
+Substituting in T, we obtain 
+
+fO pz 
+dB dT 
+
+-F &  . p. 
+d. dT 
+
+4p1 d8' df'I 4p6 des dd'6 
+RL. IR. ACAD., TRANS., VOL. XXIX.-PART XVII. 4 U 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+630 SIR R. S. BALL On the Theory of Permanent Screws. 
+
+As this must be true for every value of px, we must have, besides the 
+vanishing emanant, the condition 
+
+1 dR dT 1 dR dT 
+p d0i 1 p6 d0fi 6 
+
+It is clear that the form of T must be such as to satisfy this equation. 
+The physical meaning of this equation is easily obtained, for it may be 
+
+written thus, 
+Id] 1 dT I dR 1 dT 
+
+P1--;X-T+... CL?  p6 
+ X - 
+
+Pi au2 Pi 1 P6 AAA P6 dO 6 
+This means that the screw of which the co-ordinates are 
+
+1 dB 1 dB 
+;I d&' 
+
+ 
+
+ 
+
+ 
+
+ps d 
+' 
+
+and the screw of which the co-ordinates are 
+1 dT 1 dT 
+
+pl GtV`, 
+. 
+
+P6 d 8'6 
+must be reciprocal. 
+
+The former denotes a screw of infinite pitch parallel to 0, the latter 
+denotes the restraining screw. The result may be thus stated : 
+
+The restraining screw corresponding to any given instantaneous screw 
+is the same for any other instantaneous screw on the same axis of any 
+pitch whatever. 
+
+We now compute the co-ordinates of the restraining wrench for a free 
+rigid body. 
+
+Suppose the body to have a standard position from which we displace it 
+by small twists O',, ... e'6 around the six principal screws of inertia. While 
+the body is in this position it receives a twist velocity of which the co-ordi 
+nates relatively to the six principal screws of inertia are 8i, ... B6. 
+
+To compute the kinetic energy we proceed as follows :-Let a point lie 
+initially at x, y, z, then, after the displacement of the system prior to 
+starting, it is moved to X, Y, Z, where 
+
+x  a (O'l - 0'2  y (8'6  0'6 - z (O'3  O'4  x, 
+Y  b 
+
+ 
+
+813  O'4  Z (O'1  O'2  x (8'5  8'6  Y, 
+Z  C (O'5 '"'.' 06  x (O',  04 -. y (O'  O'2  Z, 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+Sip R. S. BALL On the Theory of Permanent Screws. 631 
+
+in which a, b, c are the radii of gyration on the principal axes. The six 
+principal screws of inertia lie, of course, two by two on each of the three 
+principal axes, with pitches  a,  a on the first,  b,  b on the second, 
+and 
+
+ c,  c on the third. 
+In consequence of the twist velocity with the components 0,, , .. 06, 
+
+each point X, Y, 2 receives a velocity of which the components are 
+
+a(e1 02) YC 5+O8  Z(d3+e4), 
+
+b(e3-e4 +Z(0,  O2 -X(O5+es), 
+c (05-66)+X(0-3 04)- Y(01 62). 
+
+Before substitution for X, Y, Z it will be convenient to use certain abbre 
+viations, 
+
+o'I--O'2-=Elj O' +O'2 
+V3 V4 .?... E2, v8  014  "c2, 
+
+11e'5  c' 6  E3 ; e'5  e16  A3. 
+
+O1-02=pi; 01+02=w11 
+
+83_" 04=P2j O3+e4  G2, 
+05-06=P3; 05+06--w3. 
+
+After a few transformations we obtain 
+
+2 fV2 dw, - ..  a2O 2  a2d22  b2V32  b2042  C2052  C2 62, 
+
++abE2p,w3 acE3p10),-X1(),W3(b'--c2)9 
+ bcE3P2w1 - baE1p2c?3  \2()30)1(c  a2), 
+ caE1 p3w2  ebE2p,0i1 - X3()1 2 (a2  b2), 
+
+whence we easily find 
+
+d T 
+; -  ac p3ci2  abp2w3 - (b2  C w2r03. dO 
+
+4U2 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+632 SIR R. S. BALL-On the Theory of Permanent Screws. 
+
+If 'q"i, ... 76 be the co-ordinates of the restraining wrench, then, as we 
+have seen, 
+
+ 
+
+dT 
+'1'  1`de'1' P 
+
+whence we deduce the following fundamental expressions for the co-ordi 
+nates of the restraining wrench :- 
+
+P171'1  --acp3w2+abp2w3+(b2- C2)W2w3 
+
+p2?1"2   acp3W2  ab p2W3  (b2 c2 2W3, 
+
+,vs 7"3   ab p1w3 -F. Cbp3w1  (C2 - a2 W3Wi, 
+474   ab plw3  Cbp3W1  (C2 a2 3w11 
+
+p5'q"5  bcp2w1  acp1w2  (a2  b2 w1w2f 
+
+P61"6 4 bcpzk -acpw2+(a2 -b w1W2. 
+As usual, I here write 
+
+pl =+a; p2=-a; p3=+b; p4.;-b; p6=+c; p$--.-c. 
+We verify at once that 
+
+P17111181  . . . Ps')"6z6  0, 
+but this is shown otherwise to be true, because the restraining screw must 
+be reciprocal to the instantaneous screw. 
+
+These equations enable us to study the correspondence between each 
+instantaneous screw 0 and the corresponding restraining screw . It is to 
+be noted that this correspondence is not of the homographic, or one-to-one 
+type, such as we meet with in the study of the Principal Screws of Inertia, 
+and in other parts of the Theory of Screws. The correspondence now to 
+be considered has a different character. 
+
+If any 0 be given, then, no doubt, one q is given definitely, but the 
+converse is not true. If rq be selected arbitrarily there will not in general 
+be any possible 0. If, however, there be any one 0, then every screw on 
+the same axis as 0 will also correspond to the same q. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL On the Theory of Permanent Screws. 633 
+
+We proceed to find the condition which r9 must satisfy. 
+From the equations in the last article we can eliminate the six quan 
+
+tities, O , . . . 06 1 we can also write if  gt?nj ; . . .  '?/ryjn where ?1? is 
+the intensity of the restraining wrench and 'q , ... fl6, the co-ordinates of 
+the screw on which it acts. 
+
+We have 
+a (n",  f??2 2abp2W3  2acp3w2, 
+
+a (7711,  71?,2  (b2  C2 W20J3j 
+whence 
+
+b2-c2Il?+? p p3 
+a a 'Y11  fl2 (42 (03 
+
+and from the two similar equations we obtain, by addition, 
+
+b?--c 77,--172 c2-a2 713+V4 a'--?b 6 
+a Th  772 b ']3  l4 C 715 
+
+It might have been thought that any screw could be the residence 
+of a restraining wrench, provided the corresponding instantaneous screw 
+were fitly appointed. On the other hand it would be noted that to each 
+restraining screw must correspond a singly infinite number of possible 
+instantaneous screws. As the choice of an instantaneous screw had five 
+degrees of infinity, it was to be presumed that the restraining screws could 
+only have four degrees of infinity, Z. e. that the co-ordinates of a restraining 
+screw must satisfy some equation, or, in other words, that they must belong 
+to a screw system of the fifth order, as we have now shown them to do. 
+
+We can obtain a confirmation of the expression for the co-ordinates of 
+r in a somewhat interesting manner. It is obvious, from the physical 
+aspect of the question, that so long as 8 retains the same direction and 
+situation, its pitch is immaterial so far as q is concerned. For the rigid 
+body twisting about a screw has no tendency to depart from the screw in 
+so far as its velocity of translation is concerned. It is the rotation which 
+necessitates the restraining wrench if the motion is to be preserved about 
+the same instantaneous screw. We ought, therefore, to find that the 
+expressions for the co-ordinates of q remained unaltered if we substituted 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+634 SIR R. S. BALL--On the Theory of Permanent Screws. 
+
+for 8,, .. 06 ; the co-ordinates of any other screw on the same straight 
+line as 0. These are 
+
+. ., H. 
+01  ; (01 02), 02  (01 02), a a 
+. H. . . _, I . 
+
+03  T (03  04), 04 . - (03  04), b 
+ 
+
+C C 
+where H is arbitrary. 
+
+Whence we obtain the following substitutions 
+2I for pl we put p ,  cil, 
+
+2H 
+as P2 ,, P2  b W21 
+
+2H 
+,, p3 ,, p3  Was 
+
+while co,, oil, w3 are unchanged. 
+Introducing these into the values for rq"z, it becomes 
+
+ a"Oh ps  
+w 
+
+abca p2  T (02  (b'--  cv2cv, , 
+from which H disappears, and the required result is proved. 
+
+It is important to observe that in the case of a free rigid body the 
+restraining screw intersects the instantaneous screw at right angles, for the 
+restraining screw is reciprocal to the instantaneous screw, and, conse 
+quently, if  be the angle between the two screws, and d their distance 
+apart, 
+
+(p,  p, cos E--d sin E=0. 
+We have seen that this must be true for every value of Po, whence 
+
+cose 0; d=0. 
+We can prove this theorem otherwise, 
+
+,?',I+? 2=2bp2cv3--2Cp3co2, 
+"S  n124  2Cp3co1 . 2ap1 W3, 
+
+?7"5  , yO  2ap1w2  26p2cv1, 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL-On the Theory of Permanent Screws. 635 
+
+multiplying up by (di, W2, W3, and adding, we get 
+
+(-ql  772 (01  02  (773  774 (03  04  (Y75  _q6 (05  06  0 
+
+This proves that #q and 6 are rectangular, but we already know that they 
+are reciprocal, and therefore they intersect at right angles. 
+
+The expressions for the restraining wrenches can be illustrated by 
+taking as a particular case an instantaneous screw which passes through 
+the centre of inertia. 
+
+The equations to the axis of the screw are 
+
+apl o)3-"ZW2 bp2+ZG)l-xW3 Cp3+XCO2 OJI 
+ 
+
+W1 W2 CO3 
+
+If x, y, z are all simultaneously zero, then 
+
+a pl 
+ 
+
+bp2 , cps 
+Cal W3 W3 
+
+and these are, accordingly, the conditions that the instantaneous screw 
+passes through the centre of inertia. 
+
+With these substitutions the co-ordinates become 
+
+Plfl"I  (b2  c2 &J2W3 , p31'?S  (c2  a2 W3COj ; P&7"5  (a2  b2 W1W2, 
+
+1"2'l"2 - (1i2  c2 w2W3 p4l'?4  (C2  a2 WsW1 ; p,-q"6 _' (a2 b2 WICO2 ; 
+
+remembering that p,   a ; p2   a, &c, we have 
+
+72??1  712  0 ; 7J"3  711?4  0 ; /'  771?6  0; 
+
+but these are the conditions that the pitch of q shall be infinite ; in other 
+words the restraining wrench is a couple. 
+
+From the equations already given, we can find the co-ordinates of the 
+instantaneous screw in terms of those of the restraining screw. 
+
+We have 
+
+H 
+,,,jab 
+
+C (-q", - "2)'?F  171F4 (_J"S FF \ 
+2 
+
+ 
+
+b2  c2 (c2  a2 (a2  b2 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+636 SIR R. S. BALL On the Theory of Permanent Screws. 
+
+and b2  c2 
+ 
+
+aq":i-.'q 2 
+
+c2-a2 
+b(2-2)4)' 
+
+a2 , 
+ 
+
+-i,, 
+If we make 
+
+Lee =aw,2+bcj22+cco32. 
+h362 -= a3wt2  b3w22  c3L)a . 
+
+Then we have 
+
+011(t1 `pg La2_h3 
+2p, 2abc 
+
+02 1 (P2 
+pQ Lae -hs 
+
+2p2 2abTj' 
+
+O=: 02 -.h3\ 
+2p3 2abc 
+
+04 2 (P4  PO Lb2 
+ h" 
+
+V-2-p-4 
+
+(fl?5h:& LC2 
+ h3 
+
+25 2abc 
+
+?g-Gt13 p6 pe ? 
+Lc2  hs 
+
+2p6 2abc 
+
+In this, Po is the pitch of 0, and is, of course, an indeterminate quantity. 
+If the freedom of a body be restricted, then any screw will be permanent, 
+
+provided its restraining screw belong to the reciprocal system. For the body 
+will not depart from the original instantaneous screw except by an accelera 
+tion. This must be on a screw which stands to the restraining screw in the 
+relation of instantaneous to impulsive, but in the case supposed these two 
+screws are reciprocal, therefore they cannot be so related, and therefore 
+there is no acceleration. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL--- On the Theory of Permanent Screws. 637 
+
+VII.----Two DEGREES OF FREEDOM. 
+
+We now commence to investigate the circumstances with regard to a 
+constrained system. There is nothing to be said as to the restraining 
+wrench when the freedom is of the first order. Of course, in this case, as 
+every movement of the body can only be a twist about the screw which 
+prescribes its freedom, the restraining wrench is provided by the reactions 
+of the constraints. It is only where the body has liberty to abandon its 
+original instantaneous screw that the theory of the restraining wrench 
+becomes significant. 
+
+If a rigid body has two degrees of freedom, then it is free to twist about 
+every screw on a certain cyliiidroid. If the body be set initially in motion 
+by a twist velocity about some one screw on the surface, then, in general, 
+it will not remain twisting about this screw. A movement will take place 
+by which the instantaneous axis gradually comes into coincidence with 
+other screws on the cylindroid. If we impose a restraining wrench q, of 
+course 0 can be maintained as the instantaneous screw ; rq is reciprocal to 0. 
+It may be compounded with any reactions of the constraints of the system. 
+Thus, given 0, there is an entire screw system of the fifth order, any one 
+screw of which may be taken as the restrainer. Of this system there is one, 
+but only one, which lies on the cylindroid itself. There are many 
+advantages in taking it as the restraining wrench, and it entails no sacrifice 
+of generality ; we therefore have the following statement :-To each screw 
+on the cylindroid, regarded as an instantaneous screw, will correspond one 
+screw, also on the cylindroid, as a restraining screw. A 
+
+The position of this restraining screw is found, 
+at once, by the property that it must be reciprocal o 
+to the instantaneous screw. If we employ the cir 
+cular representation for the screws on the cylindroid R 
+
+(fig. 1), and if 0 be the pole of the axis of pitch, 
+then it is known that the extremities of any chord, 
+such as IR drawn through 0, will correspond to 
+two reciprocal screws. If therefore I be the instan Fig. I. 
+taneous screw, then l must be the restraining screw. If a body be set in 
+
+1 L. IR. ACAD., TRANS., VOL. XXIX.-PAT XVII. 4 X 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+638 Sip R. S. BALL-On the Theory of Permanent Screws. 
+
+motion by a twist velocity about I, it will be possible, by a suitable wrench 
+applied on the screw corresponding to R to compel the body to continue 
+to twist about I. 
+
+Let 0' be the pole of the axis of inertia, then, if IA be a chord drawn 
+through 0', the points I and A correspond to a pair of conjugate screws of 
+inertia. It further appears that A is the instantaneous screw corresponding 
+to an impulsive wrench on R. Therefore the effect of the wrench on R 
+when applied to control the body twisting about I is to compound its 
+movement with a nascent twist velocity about A. Therefore A must be 
+the accelerating screw corresponding to I. We thus see that 
+
+D, f two conjugate screws of inertia, for a rigid system with two degrees of free 
+dom, either is the accelerator for a body animated by a twist velocity about the 
+other. 
+
+In the case of freedom of the second order we are enabled to obtain the 
+form of T, from the fact that the emanant vanishes, that is, 
+
+ dT dT 
+d81 d82 
+
+If we assume that T is a homogeneous function of the second degree in 
+0, and 82, the solution of this equation gives 
+
+T-L8l2+258182+Xd2l+H(B'1 2-02d,)' (0'1d2  0'201 (Ad,  B02)0 
+If we further suppose that O' and O' are so small that their squares may be 
+neglected, then the term multiplied by .-.1 may be discarded, and we have 
+
+T =.L192+2SOI 2+Me22 (0'102""e'2O1)(AO}+Bv2), 
+whence 
+
+dT dT 
+---; 
+
+, 
+ 62 (Ad,  B2 9 , d82 
+
+ 
+
+- e1(Ae1  BB',42).. dB 
+Thus we get, for the co-ordinates of the restraining screw, supposing the 
+screws of reference to be reciprocal, 
+
+? 1 d T 
+_... 
+
+82 
+ 
+
+ 
+
+1 dT Bx  
+ ---. 
+
+ 
+
+-(AB +1382 , fl 2 ..-.  -?  - (Ad,   X382). 1 d e pl P2 d O 2 72 
+We easily verify that 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SCR R. S. BALL-On the Theory of Permanent &rews. 639 
+
+which is, of course, merely another way of expressing that I and 0 are 
+reciprocal. 
+
+It may be useful to show how the form of T3 just obtained, can be 
+derived from direct calculation. I merely set down here the steps of the 
+work and the final result. 
+
+Let us take any two screws on the cylindroid a and 8, and let their 
+co-ordinates, when referred to the absolute screws of inertia, be 
+
+a1, ... aa 
+and 
+
+Then any other screw on the cylindroid, about which the body has been 
+displaced by a twist, will have, for co-ordinates, 
+
+alO'1  /310'2, 
+
+a2O'l  /320 2, 
+. . . 
+
+a68'1  /3o0'2, 
+and the screw about which the body is twisting, with a twist velocity 8, 
+will have, for co-ordinates, . 
+
+a601+!Q6 2. 
+We find, for the kinetic energy, so far as the terms involving 0', and 0', are 
+concerned, the expression 
+
+Where 
+(Of02 6201)(Ae,+Ba2 
+
+A  
+ 
+
+be (a,  a2 [(ems  a6 (/9a  94  (as  aa (/35  96) 
+ (b'  c' (as -F W (as  a6 (,81 t,6a), 
+
+ 
+
+ca (a3  aa [(a,  ars (fls  ,as  (as  as (/31  Qrz) 
+ (02  a' (a5  !k Hai  a2 (Rs  $a?r 
+
+ 
+
+ab ins  a6 [(a3  a4 U31-92  (a,  as (Rs  R4)7 
+ (a'  a' (a, +tea (as  a, (R.  sa). 
+
+4R2 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+640 SIR R. S. Bali.-On the Theory of Permanent Screws. 
+
+B  
+ 
+
+be 68,  Rs [("s  a6 (,3a  Ss  (fs  ae (/3  Qe) 
+-(b'  c')(ai  ax (th  pia (th  Fic 
+
+ CO5(/33 f /34 [@i  a2)(/35  P6  (as  a6)(/31  /3s) 
+(c2 a2 (aa  a4 (/3  /36 (/3k  /32 
+
+ 
+
+ab (,85 Qe [("a  a4 (,81  /32  (ai  a2 (/33  /34) 
+ (a2  b2 (as  as (13i  /32)(18s+/34) 
+
+We now write the equations of motion for a body with two degrees of 
+freedom, and unacted upon by any force, the reference being made to the 
+principal screws of inertia. 
+
+We have, from the general equations (p. 622), 
+
+Mu12 Ui 
+dT 
+cB1 
+
+2po?dT Mug 02 . dB'2 
+
+Introducing the value just obtained for T, 
+MU2  
+
+ O2 (A01  B2), 
+Mu222   6 (M1  B2). 
+
+There must be one screw on the cylindroid, for which 
+
+A01+B62=o. 
+
+This screw will have the accelerations Bl and U2, both zero, and thus we 
+have the following theorem : 
+
+If a rigid system has two degrees of freedom, then, among the screws about 
+which it is at liberty to twist, there is one, and in general only one, which has the 
+property of a permanent screw. 
+
+The existence of a single permanent screw in the case of freedom of 
+the second order seems a noteworthy point in abstract Dynamics. The 
+analogy here ceases entirely between the permanent screws and the prin 
+cipal screws of inertia. Of the latter there are two on the cylindroid. 
+
+Let N (fig. 2 be the critical point on the circle which corresponds to 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL-On the Theory of Permanent Screws. 641 
+
+the permanent screw. Let P be a screw 0, the twist velocity about which 
+is O. Let ue be a linear parameter appropriate to the screw 0, such that 
+Mue2e2 is the kinetic energy. 
+
+If the body be set twisting about N it will stay there. If set twisting 
+about any other screw 0 the instantaneous screw will gradually change. 
+We shall first study the rate at which the instantaneous screw shifts its 
+position. 
+
+Let Q be an adjacent position, then, by Ptolemy's theorem, 
+
+but 
+
+whence 
+
+02PQ  01?2  2 11 
+1=& 
+
+42=?2+e28t, 
+
+O2P Q  (d201  0102 St, 
+PQ 0240 
+
+012 
+-si Fig. 2. 
+
+which is, accordingly, the rate at which P will change its position. If we 
+substitute for e1 and 02 their values already found in the last article, we 
+obtain for the velocity of P the expression 
+
+1. 1212  2G22 O2 (A01 
+:j?u 12222 2e2 
+
+If N be the position of the permanent screw, and if p be the length of the 
+chord P.N, then the expression just written assumes the form 
+
+IcpOu$2 
+where k is a constant. 
+
+This expression illustrates the character of the screw corresponding to 
+N. If p be zero, then the expression for this velocity vanishes. This means 
+that P has no tendency to abandon N; in other words, that the screw 
+corresponding to Nis permanent. 
+
+We may present the velocity of P in a purely geometrical aspect, as 
+follows :--Let XT(fig. 3 be the axis of inertia, then ue2 is proportional to the 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+642 SIR R. S. BALL On the Theory of Permanent Screws. 
+
+perpendicular from P on T. It follows that the velocity of P for a given 
+twist velocity is proportional to the product of PN and PT. 
+
+If a' be the pole of XT with regard to the circle, then the acceleration 
+
+Fig. 3. 
+
+is a twist about the screw corresponding to Q, and the magnitude of the 
+acceleration varies as 81 x P 0' x P.N. 
+
+The importance of the theory relating to the existence of a single per 
+manent screw on the cylindroid makes it worth while to investigate the 
+question from another point of view. 
+
+Let us think of any cylindroid 8 placed quite arbitrarily with respect to 
+the position of the rigid body. A. certain restraining screw eq will corre 
+spond to each screw 0 on S. As 0 moves over the cylindroid, so must the 
+corresponding screw rq describe some other ruled surface S'. The two 
+surfaces, 1S' and i, will thus have two corresponding systems of screws, 
+whereof every two correspondents are reciprocal. One screw can be 
+discovered on S', which is reciprocal, not alone to its corresponding 0, but 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL On the Theory of Permanent Screws. 643 
+
+to all the screws on the cylindroid. A wrench on this Pq can be provided 
+by the reactions of the constraints, and, consequently, the constraints will 
+in this case, arrest the tendency of the body to depart from 0 as the 
+instantaneous screw. It follows that this particular 0 is the permanent 
+screw. 
+
+We can obtain some interesting results by performing the actual calcu 
+lation of the relations between q and the cylindroid. 
+
+A set of forces applied to a rigid system has components X, Y, Z at a 
+point, and three corresponding moments F, G, H in the rectangular planes 
+of reference. 
+
+Let p be the pitch of the screw on which the wrench thus represented 
+lies, and let x, y, z be the co-ordinates of any point on this screw. Then, 
+in the plane of Z the moments of the forces are x Y  yX, and if to this be 
+added pX, the whole must equal H. 
+
+Thus we have the three equations, so well known in statics, 
+
+F=pX+yZ--zY, 
+
+G=pY+zX-2Z, 
+
+H=pZ+xY----yX. 
+
+The centrifugal acceleration on a point P is, of course, co2PH, where w is 
+the angular velocity, and PH the perpendicular let fall on the axis. The 
+three components of this force are X', Y', Z', where 
+
+X'  0 sin 8 (x sin 8 y cos 0), 
+Y'  0)2 cos B (y cos 0  x sin 0), 
+Z' 
+
+=CO2(s  m sin 20), 
+and the three moments are I", G', H' where 
+
+F'  w2 sin B (yz sin B  xz cos 0  2my cos 0), 
+G'  W0 cos e (---- yZ sin 0  xz cos 0  2mx sin 0), 
+S'  w2 ((y'  x2 sin 0 cos 0  xy cos 28). 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+644 SIR R. S. BALL-On the Theory of Permanent Screws. 
+
+We are now to integrate these expressions over the entire mass, and we 
+employ the following abbreviations 
+
+f xdm  Ma ; f ydm  M/3 ; f zdm  My; 
+
+I x'dm  Mae; f y'2dm  Mb2; f zldm  My2; 
+
+f xydm  ..1, r2 ; f xzdm  Ng ; f yzdm  3f2; 
+X  f X'dm ; Y  f Y'dm ; Z  f Z'dm ; 
+F  F'cim ; G  f G'dm ; H  f H'dm ; 
+
+then, omitting the factor Mc?2, we have 
+
+K= (a sin 0 /3 cos 0 sin 0, 
+Y=--(asin0-/3 cos 8 cos 0, 
+Z 28. - y  m sin 
+
+F=+sinH (p2 sinB+g2cos8)---2m/3sin8cosB, 
+G   cos 0 (p2 sin 0  q2 cos 0  2ma sin 0 cos 0, 
+H=(a2--b2 sin 0 cos 0+r2 cos 20. 
+
+We can easily verify that 
+FY GX  2mXY. 
+
+We now examine the points on the cylindroid intersected by the axis of 
+the screw 
+
+.P=pX+yZ-zY, 
+G  p Y  zX  2Z, 
+
+H=pZ xY yX. 
+
+We write the equations of the cylindroid in the form 
+
+x=Rcoscb; y Rsinsb; Z=msin'4, 
+
+then, eliminating p and l?, and making 
+
+U=X2+Y2+Z2, 
+
+V=PX+GY+HZ, 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL-On the Theory of Permanent Screws. 645 
+
+we find, after a few reductions, 
+
+tan3 c (YV  G U  tan2 4 (X V  FU  2mX U 
++tanc?(YV- GU--2m YU)+XV--FU=0. 
+
+This cubic corresponds, of course, to the three generators of the cylindroid 
+which the ray intersects. 
+
+If we put 
+El7- GX  2mXY. 
+
+then the cubic becomes, by eliminating m, 
+
+(Ytan+X)(X(YV G U tans hb  (X V  .Z'U Y  0. 
+The factor Y tan 0  X simply means that the restraining screw cuts the 
+instantaneous screw at right angles. 
+
+The two other screws in which 77 intersects the cylindroid are given by 
+the equation 
+
+(XYV - X G U tan2  (XYV  FUY  0. 
+These two screws are of equal pitch, and the value of the pitch is 
+
+p (XYV XGU  p2(PUY XYV). 
+U (FY - GX 
+
+where pi and p2 are the pitches of the two principal screws on the cylindroid, 
+the expression becomes, after a few reductions, 
+
+ 
+
+!(fro -- ap' sin8+(q2 +$P2 cos 0 
+ U a sin 8  /3 cos 8 
+
+This is the pitch of the two equal pitch screws on the cylindroid which I 
+intersects. If rj is to be reciprocal to the cylindroid, then, of course, the 
+pitch of , itself should be equal and opposite in value to this expression. 
+Hence the permanent screw on the cylindroid is given by 
+
+(p2  api sin 0  (q2  8p2 cos 0  0. 
+We notice here the somewhat remarkable circumstance, that if 
+
+p2 - apt 0, and q2  8p,2  0, 
+then all the screws on the cylindroid are permanent screws. 
+
+RL. IR. ACAD., TRANS., VOL. XXIL.---PART XVII. 4 Y 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+646 Sri R. S. BALL On the Theory of Permanent Screws. 
+
+It hence appears that if two screws on a cylindroid are permanent, then 
+every screw on the cylindroici is permanent. 
+
+The investigation of these points opens up an interesting theory which 
+we do not here further refer to. 
+
+VIII. THREE DEGREES OF FREEDOM. 
+
+Let us now specially consider the case of a rigid body which has 
+freedom of the third order. On account of the evanescence of the emanant 
+we have 
+
+ dT  dT  dT 
+d8I dU 2 dJ3 
+
+It is well known that if U, V, W be three conics whose equations submit to 
+the condition 
+
+xU+yV+zW=0, 
+those conics must have three common intersections. 
+
+It therefore follows that the three equations 
+dT dT dT 
+dO, de2 d0'30 
+
+must have three common screws. These are, of course, the permanent 
+screws, and, accordingly, we have the theorem 
+
+A rigid system which has freedom of the third order has, in general, three 
+permanent screws. 
+
+There will be a special convenience for the study of the subject in 
+taking these three screws as the screws of reference. We shall use the 
+plane representation of the three-system, and the equations of the conics 
+will be 
+
+Al263  B1361  C1e102  0, or U 0, 
+
+A20203+B2 301 C20102=0, ,, V 0, 
+
+Aa 2$3  B3O301  c3&2 "' 0, ,, W 0; 
+but, as 
+
+01U 02V OSW 0 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL-On the Theory of Permanent Screws. 647 
+
+identically we must have 
+B1 "'0; 'A2=p; A3=0; 
+C  o ; C2  o ; A  0 ; 
+
+and also 
+A1+B2 ti8 0. 
+
+For symmetry we may write 
+
+A, p, -v, B2=v-X; C?=X--r p,. 
+
+We thus find that when T is referred to the three principal screws of the 
+system, its expression must be 
+
+T  a01  b622  00g1  2f02O8  290103  2k& 2, 
+
+ (p  z 010203  (v  X 8'2O3O1  (X  JU 030102. 
+We now express the general dynamical equations of a three-system. 
+
+Let r)" be the intensity of any wrench acting on a screw q belonging to 
+the system, and let 2-m1 represent the virtual coefficient between q and the 
+first of the three screws of reference. 
+
+when, substituting for T in Lagrange's equations, we have 
+
+ ar1  hO2  x1e3 - (1,  v 0203  wl ", 
++hB +10fO3 v X t 2 
+
+ 
+
+`_" X 1 =27j 
++gU1 fO2  CO3k.- (A-- j.4 0102 
+
+These equations are general. If be the restraining screw, then an appro- 
+priate wrench 
+
+" should be capable of annihilating the acceleration, i. e. of 
+rendering 
+
+0 =0; 02=0; 03=01 
+whence the position of q, and the intensity q" are indicated by the equa 
+tions 
+
+(v  jL 0203 
+ 
+
+x  v 00I  
+
+(b'  A 0102 --. z3n'7 
+4 2 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+648 SIR R. S. BALL On the Theory of Permanent Screws. 
+
+We can now exhibit the nature of the correspondence between rq and 0, for 
+
+Z j)7 '- .P17 1  W12712  W13y7 3, 
+W2n 12771  P2772  23'327]3, 
+T33,J  2713771  W32fl2  93173. 
+
+If we make H  010203 -: r7", and omit the dots over 0,, &c., we have 
+
+01 (PInI  ?912772  W13fl3  H(y  /3)7 
+02 (W12771  P2772  'M32')73  H (a  y/, 
+03 (W13711  3'32f 2  a qs 
+
+ 
+
+ H(/3  a). 
+A symmetrical method of expressing these three equations will be to reduce 
+them to the homogeneous forms, viz. 
+
+01L  02M 631T 0, 
+
+AL  /302M  yO3N 0, 
+where 
+
+2 Al 2  N d-= 2  
+
+For further development we now employ the plane representative of the 
+system of the screws. We learn that rq must lie on the polar of the point 
+01, 82, 03 with respect to the pitch conic, or the locus of all the screws for which 
+
+We also see that 
+-9 must lie on the polar of the point a01, /302, yOa with 
+
+regard to the pitch conic. 
+We thus obtain a geometrical construction by which we are enabled 
+
+to discover the restraining screw when once the instantaneous screw is 
+given. 
+
+Two homographic systems are first to be conceived. A point of the 
+first system, of which the co-ordinates are 01, 02, 03 has as its correspondent 
+a point in the second system, with co-ordinates aO,, /302, 703. The three 
+double points of the nomography correspond, of course, to the permanent 
+screws. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SIR R. S. BALL-On the Theory of Permanent Screws. 649 
+
+To find the restraining screw corresponding to a given instantaneous 
+screw 0, we join 0 to its homographic correspondent, and the pole of this 
+ray, with respect to the pitch conic, is the position of rq. 
+
+The pole of the same ray, with regard to the conic of inertia, is the accele 
+rator. It seems hardly possible to have any more vivid geometrical picture 
+of the relation between r and 9 than that which these theorems afford. 
+
+We have already shown that there is a single steady screw in every 
+mechanical system with two degrees of freedom. We can demonstrate this 
+in a different manner as a deduction from the case of the three-system. 
+
+Consider a cylindroid in a three -system, i. e. a straight line AB (fig. 4). 
+If the movements of the body 0 eP 
+be limited to twists about the 
+screws on the cylindroid, there 
+will be reactions about the pole 
+of this ray P with respect to A o 
+the pitch conic, in addition to 
+the reactions of the three 
+system. `o 
+
+The permanent screw on Fig.4. 
+this cylindroid will be one whereon the restraining screw coincides with P. 
+In general, the homographic points corresponding to the points on the ray 
+AB will form a ray C.D. The intersection 0, regarded as on CD, will be 
+the correspondent of X on AB. The restrainer corresponding to X will 
+therefore lie at P, and will be provided by the constraints. Accordingly, 
+X is a permanent screw on the cylindroid, and it is obvious from the 
+construction that there can be no other screw of the same character. 
+
+We can also deduce the expression for T in the two-system, from the 
+expression of the more general type in the three-system ; for we have 
+
+T  To  (,a V e'182e3  {v - X O'20301  (X  i e'3e1e2. 
+Consider any screw on the cylindroid defined by 
+
+0',=P0'2+QO'3, 
+81 =PV2 gGd3; 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+650 SIR R. S. BALL- On the Theory of Permanent Screws. 
+
+substituting, we obtain, 
+(0'302  02G3 [(X j. P02  (X  v Qd3j 
+
+which we already know to be the form of the function in the case of the 
+two-system. 
+
+IX. REMAINING DEGREES OF FREEDOM. 
+
+The permanent screws in freedom of the fourth order are to be investi 
+gated in the following manner :-If a screw 0 be permanent, the corre 
+spond.ing 'q must be provided by the reactions of the constraints. All the 
+reactions in freedom of the fourth order lie on the screws of a cylindroid. 
+On a given cylindroid three possible r screws can be found. For, if we 
+substitute a,  X/1, a2  X/32, &c., for , -q,, &c., in the equation 
+
+b2-c2'1I?'-'p12 c2-a2 _13-x-_14 a2-b2 _15+_16 
+a 711 - 712 b 13 - 'p14 c 775 - r16 
+
+we obtain a cubic for X. The three roots of this cubic correspond to three r 
+screws. Take the 0 corresponding to one of the screws, then, of course, 
+0 will not, in general, belong to the four-system. We can, however, assign 
+to 0 any pitch we like, and as it intersects -q at right angles, it must cut two 
+other screws of equal pitch on the cylindroid. Give to 0 a pitch equal and 
+opposite to that of the three latter screws, then 0 is reciprocal to the 
+cylindroid, and therefore it belongs to the four-system. We thus have a 
+permanent screw of the system, and accordingly we obtain the following 
+result : 
+
+In the case of a rigid body with freedom of the fourth order there are, in general, 
+three, and only three, permanent screws. 
+
+In freedom of the fifth order, the screws about which the system can be 
+twisted are all reciprocal to a single screw p. In general, p does not lie 
+on the system prescribed by the equation which all possible co-ordinates 
+satisfy. It is therefore, in general, not possible that the reaction of the 
+constraints can provide an -q. There are, however, three permanent screws 
+in the five-system, the existence of which is thus demonstrated :-Draw 
+through the centre of inertia of the body the three principal axes, then, on 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+SiR R. S. BALL On the Theory of Permanent Screws. 651 
+
+each of these axes one screw can always be found which is reciprocal to p. 
+Each of these will belong to the five-system, and it is obvious from the 
+property of the principal axes, that if the body be set twisting about one 
+of these screws it will have no tendency to depart therefrom, and no call 
+is made on the constraints to provide a restraining wrench. 
+
+If the body have freedom of the sixth order it is then perfectly free. 
+Any screw on one of the principal axes through the centre of inertia is a 
+permanent screw, and, consequently, there is in this case a triply infinite 
+number of permanent screws. 
+
+The results obtained show that for a rigid body with the several degrees 
+of freedom the permanent screws are as follows : 
+
+No. of Permanent Screws. 
+Freedom I., . . . . . , 1. 
+
+II., 1. 
+III., 3. 
+
+,, IV., 
+3.3. 
+
+ VI., . . , . Triply infinite. 
+
+ADDENDUM. 
+
+The following are the references to the preceding eight Memoirs on the 
+Theory of Screws 
+
+1. The Theory of Screws. A Geometrical Study of the Kinematics, 
+Equilibrium, and small Oscillations of a Rigid Body." Trans. 
+actions, Royal Irish Academy, vol. xxv., Science, pp. 157-217 
+(1872). 
+
+2. " Researches in the Dynamics of a Rigid Body by the aid of the 
+Theory of Screws."-Philosophical Transactions of the Royal 
+Society, London, 1874, pp. 15--40. 
+
+3. Screw Co-ordinates and their Applications to Problems in the 
+Dynamics of a Rigid Body." Transactions, R. I. A., vol. xxv., 
+pp. 259-327 (1874)0 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
+
+652 SIR R. S. BALL On the Theory of Permanent Screws. 
+
+4. Extension of the Theory of Screws to the Dynamics of any Material 
+System." Transactions, R. 1. A., vol. xxviii., pp. 99-136 (1881). 
+
+5. " Certain Problems in the Dynamics of a Rigid System moving in 
+Elliptic Space."-Transactions, R. I. A., vol. xxviii., pp. 159-- 
+184 (1881). 
+
+6. t Dynamics and Modern Geometry. A new Chapter in the Theory 
+of Screws. "-Cunningham Memoirs, R. I. A., No. IV., pp. 1-44 
+(1886). 
+
+7. " On the Plane Sections of the Cylindroid." Transactions, R. -1. A., 
+vol. xxix., pp. 1-32 (1887). 
+
+8. '' How Plane Geometry illustrates General Problems in the Dynamics 
+of a Rigid Body with Three Degrees of Freedom." Transac 
+tzons, R. I. A., vol. xxix., pp. 247-284 (1888). 
+
+I published, in 1876, a work entitled, I I Theory of Screws " (8vo, 
+pp. 1-194, Dublin : Hodges, Figgis, & Co.), in which an account of the 
+Theory, in so far as it had then been developed, may be found. 
+
+A German translation of this book, and of most of the subsequent 
+Memoirs, has recently been made by Herr Gravelius. This volume con 
+tains the most complete account of the Theory that has yet been given in 
+one work. The title is, 11 Theoretische Mechanik Starrer Systeme auf 
+Grund der Methoden and Arbeiten and mit einem Vorworte von Sir Robert 
+S. Ball. Herausgegeben von Harry Gravelius." 8vo, pp. 1-619. Georg 
+Reimer. Berlin, 1889. 
+
+This content downloaded from 134.226.252.155 on Thu, 27 Jun 2013 07:14:07 AM
+All use subject to JSTOR Terms and Conditions
+
+
+
